@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Class-Path: jcl-over-slf4j-1.7.26.jar slf4j-api-1.7.26.jar classmate-1
+ .3.4.jar thymeleaf-spring4-3.0.9.RELEASE.jar jul-to-slf4j-1.7.26.jar 
+ logback-classic-1.1.11.jar spring-boot-autoconfigure-1.5.21.RELEASE.j
+ ar jboss-logging-3.3.2.Final.jar snakeyaml-1.17.jar spring-webmvc-4.3
+ .24.RELEASE.jar spring-boot-starter-web-1.5.21.RELEASE.jar tomcat-ann
+ otations-api-8.5.40.jar logback-core-1.1.11.jar hibernate-validator-5
+ .3.6.Final.jar spring-boot-starter-1.5.21.RELEASE.jar tomcat-embed-we
+ bsocket-8.5.40.jar log4j-over-slf4j-1.7.26.jar spring-context-4.3.24.
+ RELEASE.jar spring-boot-starter-thymeleaf-1.5.21.RELEASE.jar spring-c
+ ore-4.3.24.RELEASE.jar attoparser-2.0.4.RELEASE.jar thymeleaf-layout-
+ dialect-2.1.1.jar spring-expression-4.3.24.RELEASE.jar spring-securit
+ y-web-4.2.12.RELEASE.jar spring-boot-1.5.21.RELEASE.jar validation-ap
+ i-1.1.0.Final.jar groovy-2.4.17.jar spring-beans-4.3.24.RELEASE.jar s
+ pring-security-config-4.2.12.RELEASE.jar thymeleaf-expression-process
+ or-1.1.2.jar spring-boot-starter-tomcat-1.5.21.RELEASE.jar jackson-an
+ notations-2.8.0.jar spring-aop-4.3.24.RELEASE.jar jackson-core-2.8.11
+ .jar spring-boot-starter-logging-1.5.21.RELEASE.jar spring-boot-start
+ er-security-1.5.21.RELEASE.jar tomcat-embed-el-8.5.40.jar tomcat-embe
+ d-core-8.5.40.jar thymeleaf-3.0.9.RELEASE.jar jackson-databind-2.8.11
+ .3.jar thymeleaf-extras-springsecurity4-3.0.2.RELEASE.jar spring-web-
+ 4.3.24.RELEASE.jar unbescape-1.1.5.RELEASE.jar spring-security-core-4
+ .2.12.RELEASE.jar
+Main-Class: com.learning.demo.DemoApplication
+
